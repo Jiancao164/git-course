@@ -6,7 +6,7 @@ fix config file
 fix sb
 fix sba
 fix host
-fix config file
+fix config files
 fix sb
 fix sba
 fix host
