@@ -1,4 +1,4 @@
 create a host
-create six config file
+create pix config file
 create a service bus
 create a storageaccount
