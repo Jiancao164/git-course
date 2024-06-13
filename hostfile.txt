@@ -1,4 +1,4 @@
 create a host
-create two config file
+create five config file
 create a service bus
 create a storageaccount
