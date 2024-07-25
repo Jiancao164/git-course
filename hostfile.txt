@@ -2,4 +2,5 @@ create a host
 create pix config file
 create a service bus
 create a storageaccount
-create a vnet
+create a vnet 1.2
+devb
