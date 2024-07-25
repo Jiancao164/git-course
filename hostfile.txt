@@ -3,4 +3,4 @@ create pix config file
 create a service bus
 create a storageaccount
 create a vnet
-devb
+devb 1.1
