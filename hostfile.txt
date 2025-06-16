@@ -1,6 +1,6 @@
-create a host
+create a host0.9
 create pix config file
-create a service bus
+create a service bus0.9
 create a storageaccount
 create a vnet
 1.1
